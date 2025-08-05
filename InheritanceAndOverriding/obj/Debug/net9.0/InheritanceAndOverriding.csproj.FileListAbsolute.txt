@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\DCIT 318\Assignments\assignmentt\dcit318-assignment2-11072929\InheritanceAndOverriding\bin\Debug\net9.0\InheritanceAndOverriding.exe
+C:\Users\Admin\Desktop\DCIT 318\Assignments\assignmentt\dcit318-assignment2-11072929\InheritanceAndOverriding\bin\Debug\net9.0\InheritanceAndOverriding.deps.json
+C:\Users\Admin\Desktop\DCIT 318\Assignments\assignmentt\dcit318-assignment2-11072929\InheritanceAndOverriding\bin\Debug\net9.0\InheritanceAndOverriding.runtimeconfig.json
+C:\Users\Admin\Desktop\DCIT 318\Assignments\assignmentt\dcit318-assignment2-11072929\InheritanceAndOverriding\bin\Debug\net9.0\InheritanceAndOverriding.dll
+C:\Users\Admin\Desktop\DCIT 318\Assignments\assignmentt\dcit318-assignment2-11072929\InheritanceAndOverriding\bin\Debug\net9.0\InheritanceAndOverriding.pdb
+C:\Users\Admin\Desktop\DCIT 318\Assignments\assignmentt\dcit318-assignment2-11072929\InheritanceAndOverriding\obj\Debug\net9.0\InheritanceAndOverriding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\DCIT 318\Assignments\assignmentt\dcit318-assignment2-11072929\InheritanceAndOverriding\obj\Debug\net9.0\InheritanceAndOverriding.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\DCIT 318\Assignments\assignmentt\dcit318-assignment2-11072929\InheritanceAndOverriding\obj\Debug\net9.0\InheritanceAndOverriding.AssemblyInfo.cs
+C:\Users\Admin\Desktop\DCIT 318\Assignments\assignmentt\dcit318-assignment2-11072929\InheritanceAndOverriding\obj\Debug\net9.0\InheritanceAndOverriding.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DCIT 318\Assignments\assignmentt\dcit318-assignment2-11072929\InheritanceAndOverriding\obj\Debug\net9.0\InheritanceAndOverriding.dll
+C:\Users\Admin\Desktop\DCIT 318\Assignments\assignmentt\dcit318-assignment2-11072929\InheritanceAndOverriding\obj\Debug\net9.0\refint\InheritanceAndOverriding.dll
+C:\Users\Admin\Desktop\DCIT 318\Assignments\assignmentt\dcit318-assignment2-11072929\InheritanceAndOverriding\obj\Debug\net9.0\InheritanceAndOverriding.pdb
+C:\Users\Admin\Desktop\DCIT 318\Assignments\assignmentt\dcit318-assignment2-11072929\InheritanceAndOverriding\obj\Debug\net9.0\InheritanceAndOverriding.genruntimeconfig.cache
+C:\Users\Admin\Desktop\DCIT 318\Assignments\assignmentt\dcit318-assignment2-11072929\InheritanceAndOverriding\obj\Debug\net9.0\ref\InheritanceAndOverriding.dll
